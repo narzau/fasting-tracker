@@ -18,7 +18,7 @@ Fast CLI is a simple command-line interface tool to help you track your fasting 
 
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/fast-cli.git
+   git clone git@github.com:narzau/fasting-tracker.git
    cd fast-cli
    ```
 
